@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently seeking employment pertaining to artificial intelligence 
+Seeking employment
 <!--
 **MilamSage/MilamSage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
