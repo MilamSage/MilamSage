@@ -1,11 +1,15 @@
 ### Hi there 👋
 Seeking employment
 <!--
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<header>
+<link rel="stylesheet" href="devicon.min.css">
+</header>
+
 
 <!-- in your body -->
+<body>
 <i class="devicon-devicon-plain"></i>
 
 <i class="devicon-cplusplus-line-wordmark"></i>
           
+</body>
